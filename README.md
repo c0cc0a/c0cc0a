@@ -1,5 +1,3 @@
-# WORK IN PROGRESS
-
 ## whoami
 Andrea from Verona, Italy. 
 I am studying to become a penetration tester, I already got my first cert: **eJPT** from [eLearnSecurity](https://elearnsecurity.com/ "eLearnSecurity's Homepage")
