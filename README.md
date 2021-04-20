@@ -10,7 +10,7 @@ With regard to coding, I started out with shell scripting (bash) and now I am mo
 but I am also keep practicing Bash on the side as well as Powershell. 
 I am also studying HTML, Javascript and PHP.
 
-## What you'll find:
+## My Github:
 At the moment, the purpose of my Github is to create repos with exercises from the books that I am studying for my future reference, 
 and also hoping maybe to help someone that is studying the same books and is stuck on some exercise.
 
