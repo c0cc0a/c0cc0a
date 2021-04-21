@@ -5,7 +5,7 @@ and I am currently working towards getting my second cert: **eWPT**.<br>
 
 ## What i like:
 With regard to coding, I started out with shell scripting (bash) and now I am mostly focused on Python and C++, 	
-but I am also keep practicing Bash on the side as well as Powershell. 
+but I am also keep practicing Bash as well as Powershell. 
 I am also studying HTML, Javascript and PHP.
 
 ## My Github:
