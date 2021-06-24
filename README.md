@@ -13,7 +13,7 @@ At the moment, the purpose of my Github is to create repos with exercises from t
 and also hoping maybe to help someone that is studying the same books and is stuck on some exercise.
 
 ## How to reach me:
-My mail is: coccoa@pm.me
+My mail is: andreacocco@pm.me
 
 
 <!---
